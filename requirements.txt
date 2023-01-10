@@ -1,0 +1,11 @@
+streamlit 
+datetime
+matplotlib 
+scipy 
+pandas
+pystan
+ephem
+fbprophet 
+yfinance 
+fbprophet
+plotly
